@@ -22,6 +22,7 @@ public class Analysis {
             }else{
                 failCounter++;
             }
+
             studentCounter++;
         }
 
