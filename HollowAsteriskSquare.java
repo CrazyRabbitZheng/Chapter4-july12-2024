@@ -4,7 +4,7 @@ import java.util.Scanner;
  * This class print a hollow square with 4 sides of asterisks
  * @author--Zheng Wang
  */
-public class AsteriskSquare {
+public class HollowAsteriskSquare {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int size = 0;
