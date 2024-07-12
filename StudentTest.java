@@ -1,6 +1,8 @@
 /**
  * This class plays with Student class
  * @author--Zheng Wang
+ */
+
 public class StudentTest {
     public static void main(String[] args) {
         Student student1 = new Student("Jane Mary",75.00);
